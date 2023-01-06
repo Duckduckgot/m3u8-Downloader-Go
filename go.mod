@@ -1,4 +1,4 @@
-module m3u8-Downloader-Go
+module github.com/Duckduckgot/m3u8-Downloader-Go
 
 go 1.17
 
